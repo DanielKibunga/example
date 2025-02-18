@@ -7,3 +7,16 @@ h1{
 h3{
     color: purple
 }
+ul>li{
+    color: orange;
+    list-style-type: square;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    ;
+}
+body{
+    text-align: center;
+}
